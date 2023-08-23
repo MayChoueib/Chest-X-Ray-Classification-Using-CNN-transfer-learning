@@ -9,7 +9,7 @@ L’ensemble des données que j'utilise provient de la bibliothèque kaggle. Il 
 
 ## Etapes du projet 
 ### 1. Prétraitement d’images
-<p align="center"><img src="images/Images pretraitees.png" style="width: 700px"/></p>
+<p align="center"><img src="images/Images pretraitees.png" style="width: 500px"/></p>
 ### 2. Architecture du modèle ResNet50 utilisée 
 <p align="center"><img src="images/architecture-resnet50.png" style="width: 700px"/></p>
 ### 3. Résultats 
