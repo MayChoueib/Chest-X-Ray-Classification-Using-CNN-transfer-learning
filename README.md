@@ -14,7 +14,7 @@ L’ensemble des données que j'utilise provient de la bibliothèque kaggle. Il 
 <p align="center"><img src="images/architecture-resnet50.png" style="width: 700px"/></p>
 ### 3. Résultats 
 <p align="center"><img src="images/report-classification.png" style="width: 700px"/></p>
-<p align="center"><img src="images/conf mat tot.png" style="width: 700px"/></p>
+<p align="center"><img src="images/conf matrix tot.png" style="width: 700px"/></p>
 <p align="center"><img src="images/images predicted.png" style="width: 700px"/></p>
 Sources : 
 Ce travail est basé sur l'article [Automatic Detection of COVID-19 Disease in Chest X-Ray Images using Deep Neural Networks]
