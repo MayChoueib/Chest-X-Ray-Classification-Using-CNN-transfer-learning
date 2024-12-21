@@ -1,4 +1,4 @@
-# Chest-X-Ray-Classification-Using-CNN-transfer-learning
+# Classification des radiographies thoraciques à l'aide de CNN Transfer Learning pour la detection automatique de maladies pulmonaires
 
 Le but de ce notebook est la détection et la classification automatiques des maladies pulmonaires à partir des images de radiographie thoracique, particulièrement la pneumonie qui est une infection respiratoire aiguë du tissu pulmonaire ainsi que l'infection au COVID-19.    
 J’utilise l’apprentissage de transfert ou transfer learning pour entrainer un réseau neuronal convolutif (Convolutional Neural Networks, CNN), une architecture réseau pour l'apprentissage profond ou Deep Learning, tout en expliquant en détail les différentes étapes.
