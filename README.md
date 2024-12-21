@@ -19,6 +19,6 @@ L’ensemble des données que j'utilise provient de la bibliothèque kaggle. Il 
 <p align="center"><img src="images/conf matrix tot.png" style="width: 500px"/></p>
 <p align="center"><img src="images/images predicted.png" style="width: 500px"/></p>    
      
-### Sources :           
+## Sources :           
 Ce travail est basé sur l'article Automatic Detection of COVID-19 Disease in Chest X-Ray Images using Deep Neural Networks (https://ieeexplore.ieee.org/abstract/document/9357034)
 Lien de téléchargement des données : https://www.kaggle.com/datasets/prashant268/chest-xray-covid19-pneumonia  
